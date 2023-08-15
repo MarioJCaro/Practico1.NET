@@ -1,0 +1,17 @@
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\DAL_Persona.deps.json
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\DAL_Persona.dll
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\DAL_Persona.pdb
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\IDAL_Persona.dll
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\Shared.dll
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\IDAL_Persona.pdb
+D:\VisualStudio\Repos\Practico1\DAL_Persona\bin\Debug\net7.0\Shared.pdb
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.csproj.AssemblyReference.cache
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.AssemblyInfoInputs.cache
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.AssemblyInfo.cs
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.csproj.CopyComplete
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.dll
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\refint\DAL_Persona.dll
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\DAL_Persona.pdb
+D:\VisualStudio\Repos\Practico1\DAL_Persona\obj\Debug\net7.0\ref\DAL_Persona.dll
